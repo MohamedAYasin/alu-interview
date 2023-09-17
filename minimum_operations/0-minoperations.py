@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 """
-Given a number n, writing a method that calculates the fewest number of operations.
+Given number n, writing a method that calculates the fewest num of operations.
 
 Prototype: def minOperations(n)
 Returns an integer
